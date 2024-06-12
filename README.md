@@ -1,4 +1,4 @@
-# Kubernetes frontend backend example
+# Kubernetes frontend backend
 
 Simple containerized application with Kubernetes.
 This is a **TodoList application** which has **backend, frontend and database** deployed using Kubernetes.
